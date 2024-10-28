@@ -32,7 +32,7 @@ I’m currently in the learning phase but always open to discussing anything cod
 "A mobile application designed for Android devices that allows users to create, save, and delete notes easily. The app features a user-friendly interface, making note management simple and efficient."
 
 ### Programming Language and Environment
-"The Notes App is developed using Java in the Android Studio environment. It utilizes SharedPreferences for data storage to ensure that notes are preserved even when the app is closed. The project also incorporates AndroidX libraries, providing essential functionalities for modern Android applications."
+I builted the Notes App using Java in the Android Studio environment. To keep notes safe even when the app is closed, I used SharedPreferences for data storage. Additionally, I incorporated AndroidX libraries, which provide essential features and functionalities for modern Android apps."
 
----
+
 
