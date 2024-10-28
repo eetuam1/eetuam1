@@ -58,6 +58,11 @@ The Medihelipeli game is developed using JavaScript and Python, with HTML and CS
 StoreSimulator is a simulation tool designed to model customer flows and manage queues across various service points, such as customer service counters and checkout lines. The goal of this project is to realistically simulate customer behavior, providing insights into optimizing service points and enhancing queue management. The simulator also features visualizations to help monitor customer experiences intuitively.
 
 ### Programming Language and Environment
-<p> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" /> <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" /> </p>
+<p> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" /> 
+</p>
 StoreSimulator is developed using Java as the primary programming language, with JavaFX for the graphical user interface. MariaDB is utilized for data storage and retrieval, while JUnit is employed for testing. This combination ensures a robust and engaging simulation experience, along with essential functionalities for effective queue management.
 
