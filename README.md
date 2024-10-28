@@ -2,7 +2,7 @@
 
 ## 🔭 Currently working on
 - A React-based website for the Puistolan Urheilijat men's football team
-- Improving my programming skills, focusing on Java and Kotlin
+- Improving my programming skills, focusing on Java, JavaScript, Python and Kotlin
 
 ## 💬 Ask me about
 I’m currently in the learning phase but always open to discussing anything coding-related! Programming feels like a hobby to me, and I’m constantly discovering new things to learn. JavaScript and Java are my favorites, but I'm open to new challenges and technologies.
@@ -26,13 +26,8 @@ I’m currently in the learning phase but always open to discussing anything cod
 
 # 📂 Projects
 
-## Medihelipeli
-## PetPals
-## Notes App
+## [Notes App](https://github.com/eetuam1/NotesAppPhone)
 "A mobile application designed for Android devices that allows users to create, save, and delete notes easily. The app features a user-friendly interface, making note management simple and efficient."
 
 ### Programming Language and Environment
-I builted the Notes App using Java in the Android Studio environment. To keep notes safe even when the app is closed, I used SharedPreferences for data storage. Additionally, I incorporated AndroidX libraries, which provide essential features and functionalities for modern Android apps."
-
-
-
+I built the Notes App using Java in the Android Studio environment. To keep notes safe even when the app is closed, I used SharedPreferences for data storage. Additionally, I incorporated AndroidX libraries, which provide essential features and functionalities for modern Android apps.
