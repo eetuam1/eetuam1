@@ -39,10 +39,12 @@ I built the Notes App using Java in the Android Studio environment. To keep note
 Medihelipeli is a rescue game where the player’s goal is to save patients across Norway. Players must transport patients from their locations to the nearest hospital using a helicopter that can carry 1-3 patients at a time. The game requires strategic thinking to ensure all patients are rescued before running out of fuel.
 
 ### Programming Language and Environment 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/HeidiSQL-586CB5?style=for-the-badge&logo=heidisql&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HeidiSQL-586CB5?style=for-the-badge&logo=heidisql&logoColor=white" />
+</p>
 The Medihelipeli game is developed using JavaScript and Python, with HTML and CSS for the frontend. For data management, HeidiSQL is used. This combination allows for a dynamic and engaging gameplay experience while providing essential features and functionalities needed for modern gaming applications.
 
