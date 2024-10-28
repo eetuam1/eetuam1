@@ -29,13 +29,13 @@ Hey there! I'm someone who genuinely loves coding—feels more like a hobby than
 # 📂 Projects
 
 ## [Notes App](https://github.com/eetuam1/NotesAppPhone)
-"A mobile application designed for Android devices that allows users to create, save, and delete notes easily. The app features a user-friendly interface, making note management simple and efficient."
+A mobile application designed for Android devices that allows users to create, save, and delete notes easily. The app features a user-friendly interface, making note management simple and efficient.
 
 ### Programming Language and Environment
 I built the Notes App using Java in the Android Studio environment. To keep notes safe even when the app is closed, I used SharedPreferences for data storage. Additionally, I incorporated AndroidX libraries, which provide essential features and functionalities for modern Android apps.
 
 ## [Medihelipeli](https://github.com/eetuam1/Medihelipeli/tree/main)
-"Medihelipeli is a rescue game where the player’s goal is to save patients across Norway. Players must transport patients from their locations to the nearest hospital using a helicopter that can carry 1-3 patients at a time. The game requires strategic thinking to ensure all patients are rescued before running out of fuel."
+Medihelipeli is a rescue game where the player’s goal is to save patients across Norway. Players must transport patients from their locations to the nearest hospital using a helicopter that can carry 1-3 patients at a time. The game requires strategic thinking to ensure all patients are rescued before running out of fuel.
 
 ### Programming Language and Environment
 The Medihelipeli game is developed using JavaScript and Python, with HTML and CSS for the frontend. For data management, HeidiSQL is used. This combination allows for a dynamic and engaging gameplay experience while providing essential features and functionalities needed for modern gaming applications.
