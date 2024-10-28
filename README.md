@@ -1,13 +1,14 @@
-# 👋 Hi, I'm Eetu!
+# ✌️  Hi, I'm Eetu!
 
-## 🔭 Currently working on
+## About me 
+Hey there! I'm someone who genuinely loves coding—feels more like a hobby than anything else. I’m always excited to dive into new languages, tools, or projects, and there's nothing better than figuring out a challenging problem or learning something unexpected along the way. Right now, I’m really into Java, JavaScript and Kotlin, but I’m always open to exploring wherever curiosity takes me.
+
+##  💻  Currently working on
 - A React-based website for the Puistolan Urheilijat men's football team
+- A react-based social media platform for the animals called PetPals
 - Improving my programming skills, focusing on Java, JavaScript, Python and Kotlin
 
-## 💬 Ask me about
-I’m currently in the learning phase but always open to discussing anything coding-related! Programming feels like a hobby to me, and I’m constantly discovering new things to learn. JavaScript and Java are my favorites, but I'm open to new challenges and technologies.
-
-## 🔧 Languages and Tools
+##  📚  Languages and Tools
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
