@@ -9,7 +9,7 @@ Hey there! I'm someone who genuinely loves coding feels more like a hobby than a
 - Improving my programming skills, focusing on Java, JavaScript, Python and Kotlin
 
 ##  📚  Languages and Tools
-#### JavaScript, Java, Python, Kotlin, React, Docker, Git, HTML5, CSS3, Jenkins, StarUml, MySQL, HeidiSQL
+#### JavaScript, Java, Python, Kotlin, React, Docker, Git, HTML5, CSS3, Jenkins, StarUml, MySQL, HeidiSQL, JavaFX, MariaDB, Maven, JUnit
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
