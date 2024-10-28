@@ -24,6 +24,10 @@ Hey there! I'm someone who genuinely loves coding feels more like a hobby than a
   <img src="https://img.shields.io/badge/StarUML-14354C?style=for-the-badge&logo=staruml&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HeidiSQL-586CB5?style=for-the-badge&logo=heidisql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" /> </p>
 </p>
 
 # 📂 Projects
@@ -34,6 +38,7 @@ A mobile application designed for Android devices that allows users to create, s
 ### Programming Language and Environment
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 I built the Notes App using Java in the Android Studio environment. To keep notes safe even when the app is closed, I used SharedPreferences for data storage. Additionally, I incorporated AndroidX libraries, which provide essential features and functionalities for modern Android apps.
+
 
 ## 🎮 [Medihelipeli](https://github.com/eetuam1/Medihelipeli/tree/main) 
 Medihelipeli is a rescue game where the player’s goal is to save patients across Norway. Players must transport patients from their locations to the nearest hospital using a helicopter that can carry 1-3 patients at a time. The game requires strategic thinking to ensure all patients are rescued before running out of fuel.
@@ -47,6 +52,7 @@ Medihelipeli is a rescue game where the player’s goal is to save patients acro
   <img src="https://img.shields.io/badge/HeidiSQL-586CB5?style=for-the-badge&logo=heidisql&logoColor=white" />
 </p>
 The Medihelipeli game is developed using JavaScript and Python, with HTML and CSS for the frontend. For data management, HeidiSQL is used. This combination allows for a dynamic and engaging gameplay experience while providing essential features and functionalities needed for modern gaming applications.
+
 
 ## 🏬 StoreSimulator
 StoreSimulator is a simulation tool designed to model customer flows and manage queues across various service points, such as customer service counters and checkout lines. The goal of this project is to realistically simulate customer behavior, providing insights into optimizing service points and enhancing queue management. The simulator also features visualizations to help monitor customer experiences intuitively.
