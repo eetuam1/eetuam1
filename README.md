@@ -1,11 +1,11 @@
 # ✌️ Hi, I'm Eetu!
 
 ## 🙇 About me 
-Hey there! I'm someone who genuinely loves coding—feels more like a hobby than anything else. I’m always excited to dive into new languages, tools, or projects, and there's nothing better than figuring out a challenging problem or learning something unexpected along the way. Right now, I’m really into Java, JavaScript and Kotlin, but I’m always open to exploring wherever curiosity takes me.
+Hey there! I'm someone who genuinely loves coding feels more like a hobby than anything else. I’m always excited to dive into new languages, tools, or projects, and there's nothing better than figuring out a challenging problem or learning something unexpected along the way. Right now, I’m really into Java, JavaScript and Kotlin, but I’m always open to exploring wherever curiosity takes me.
 
 ##  💻  Currently working on
 - A React-based website for the Puistolan Urheilijat men's football team
-- A react-based social media platform for the animals called PetPals
+- A React-based social media platform for the animals called PetPals
 - Improving my programming skills, focusing on Java, JavaScript, Python and Kotlin
 
 ##  📚  Languages and Tools
