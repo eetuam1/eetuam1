@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Eetu!
 
 ### 🔭 Currently working on
 - A React-based website for the Puistolan Urheilijat men's football team
