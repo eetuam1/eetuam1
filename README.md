@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Eetu!
 
-### 🔭 Currently working on
+## 🔭 Currently working on
 - A React-based website for the Puistolan Urheilijat men's football team
 - Improving my programming skills, focusing on Java and Kotlin
 
-### 💬 Ask me about
+## 💬 Ask me about
 I’m currently in the learning phase but always open to discussing anything coding-related! Programming feels like a hobby to me, and I’m constantly discovering new things to learn. JavaScript and Java are my favorites, but I'm open to new challenges and technologies.
 
-### 🔧 Languages and Tools
+## 🔧 Languages and Tools
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -24,11 +24,15 @@ I’m currently in the learning phase but always open to discussing anything cod
   <img src="https://img.shields.io/badge/HeidiSQL-586CB5?style=for-the-badge&logo=heidisql&logoColor=white" />
 </p>
 
-### 📂 Projects
+# 📂 Projects
 
-### Medihelipeli
-### PetPals
-### 
+## Medihelipeli
+## PetPals
+## Notes App
+"A mobile application designed for Android devices that allows users to create, save, and delete notes easily. The app features a user-friendly interface, making note management simple and efficient."
+
+### Programming Language and Environment
+"The Notes App is developed using Java in the Android Studio environment. It utilizes SharedPreferences for data storage to ensure that notes are preserved even when the app is closed. The project also incorporates AndroidX libraries, providing essential functionalities for modern Android applications."
 
 ---
 
