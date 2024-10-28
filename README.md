@@ -1,6 +1,6 @@
 # ✌️  Hi, I'm Eetu!
 
-## About me 
+## 🙇 About me 
 Hey there! I'm someone who genuinely loves coding—feels more like a hobby than anything else. I’m always excited to dive into new languages, tools, or projects, and there's nothing better than figuring out a challenging problem or learning something unexpected along the way. Right now, I’m really into Java, JavaScript and Kotlin, but I’m always open to exploring wherever curiosity takes me.
 
 ##  💻  Currently working on
