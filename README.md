@@ -54,7 +54,7 @@ Medihelipeli is a rescue game where the player’s goal is to save patients acro
 The Medihelipeli game is developed using JavaScript and Python, with HTML and CSS for the frontend. For data management, HeidiSQL is used. This combination allows for a dynamic and engaging gameplay experience while providing essential features and functionalities needed for modern gaming applications.
 
 
-## 🏬 StoreSimulator
+## 🏬 [StoreSimulator](https://github.com/eetuam1/StoreSimulator)
 StoreSimulator is a simulation tool designed to model customer flows and manage queues across various service points, such as customer service counters and checkout lines. The goal of this project is to realistically simulate customer behavior, providing insights into optimizing service points and enhancing queue management. The simulator also features visualizations to help monitor customer experiences intuitively.
 
 ### Programming Language and Environment
