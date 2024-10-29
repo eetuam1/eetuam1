@@ -16,7 +16,7 @@ A mobile application designed for Android devices that allows users to create, s
 
 ### Programming Language and Environment
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-I built the Notes App using Java in the Android Studio environment. To keep notes safe even when the app is closed, I used SharedPreferences for data storage. Additionally, I incorporated AndroidX libraries, which provide essential features and functionalities for modern Android apps.
+I builted the Notes App using Java in the Android Studio environment. To keep notes safe even when the app is closed, I used SharedPreferences for data storage. Additionally, I incorporated AndroidX libraries, which provide essential features and functionalities for modern Android apps.
 
 
 ## 🎮 [Medihelipeli](https://github.com/eetuam1/Medihelipeli/tree/main) 
