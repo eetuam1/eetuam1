@@ -46,8 +46,8 @@ StoreSimulator is a simulation tool designed to model customer flows and manage 
 StoreSimulator is developed using Java as the primary programming language, with JavaFX for the graphical user interface. MariaDB is utilized for data storage and retrieval, while JUnit is employed for testing. This combination ensures a robust and engaging simulation experience, along with essential functionalities for effective queue management.
 
 
-##  📚  Languages and Tools
-#### JavaScript, Java, Python, Kotlin, React, Docker, Git, HTML5, CSS3, Jenkins, StarUml, MySQL, HeidiSQL, JavaFX, MariaDB, Maven, JUnit
+## 📚  Languages and Tools
+#### JavaScript, Java, Python, Kotlin, React, Docker, Git, HTML5, CSS3, Jenkins, StarUml, MySQL, HeidiSQL, JavaFX, MariaDB, Maven, JUnit, SonarCloud
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -65,5 +65,6 @@ StoreSimulator is developed using Java as the primary programming language, with
   <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" /> </p>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarCloud-4E9F3D?style=for-the-badge&logo=sonarcloud&logoColor=white" />
 </p>
