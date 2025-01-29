@@ -42,23 +42,54 @@ This project represents a journey of learning, creativity, and passion for both 
 - **Multer**: File upload middleware for images.
 
 ## 📋 [Notes App](https://github.com/eetuam1/NotesAppPhone)  
-A mobile application designed for Android devices that allows users to create, save, and delete notes easily. The app features a user-friendly interface, making note management simple and efficient.
+Notes App is a simple Android application that allows users to create, save, and delete notes effortlessly. The app uses SharedPreferences storage to ensure that notes are retained even after closing the application. It provides a user-friendly interface, making it easy for users to manage their notes efficiently.
 
-### Programming Language and Environment
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-I builted the Notes App using Java in the Android Studio environment. To keep notes safe even when the app is closed, I used SharedPreferences for data storage. Additionally, I incorporated AndroidX libraries, which provide essential features and functionalities for modern Android apps.
+### 💡 Project Idea
+The purpose of this project is to offer users an easy-to-use application for storing their thoughts, notes, or any information they wish to keep track of. This app serves as a great practice for Android development, introducing fundamental concepts of note storage and retrieval.
+
+### 🚀 Features
+- 📝 Create, edit, and delete notes
+- 💾 Persistent storage using SharedPreferences
+- 🎨 User-friendly interface
+- 📱 Lightweight and efficient Android app
+
+### 🛠️ Technologies Used
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![SharedPreferences](https://img.shields.io/badge/SharedPreferences-FF9800?style=for-the-badge&logoColor=white)
+
+- **Java**: Programming language used for app development.
+- **Android Studio**: Development environment for building Android applications.
+- **SharedPreferences**: Storage method for saving user data persistently.
 
 ## 🏬 [StoreSimulator](https://github.com/eetuam1/StoreSimulator)
-StoreSimulator is a simulation tool designed to model customer flows and manage queues across various service points, such as customer service counters and checkout lines. The goal of this project is to realistically simulate customer behavior, providing insights into optimizing service points and enhancing queue management. The simulator also features visualizations to help monitor customer experiences intuitively.
 
-### Programming Language and Environment
-<p> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" /> 
-</p>
-StoreSimulator is developed using Java as the primary programming language, with JavaFX for the graphical user interface. MariaDB is utilized for data storage and retrieval, while JUnit is employed for testing. This combination ensures a robust and engaging simulation experience, along with essential functionalities for effective queue management.
+[StoreSimulator](https://github.com/eetuam1/StoreSimulator) is a simulation tool designed to model customer flows and manage queues across various service points, such as customer service counters and checkout lines. The goal of this project is to realistically simulate customer behavior, providing insights into optimizing service points and enhancing queue management. The simulator also features visualizations to help monitor customer experiences intuitively.
+
+### 💡 Project Idea
+The purpose of this project is to create a realistic simulation environment where businesses can analyze and improve customer flow and service efficiency. By modeling customer behavior, StoreSimulator helps in decision-making for optimizing queue management and resource allocation.
+
+### 🚀 Features
+- 🏪 Simulate customer flows and queue management
+- 📊 Visual representation of customer movement
+- ⚡ Optimize service point efficiency
+- 💾 Store and retrieve simulation data using MariaDB
+- 🛠️ Robust testing with JUnit
+
+### 🛠️ Technologies Used
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
+
+- **Java**: Primary programming language used for simulation logic.
+- **JavaFX**: Graphical user interface for visualizing customer flows.
+- **MariaDB**: Database used for storing simulation data.
+- **Maven**: Build automation and dependency management tool.
+- **JUnit**: Framework used for testing the application.
 
 
 ## 📚  Languages and Tools
