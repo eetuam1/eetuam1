@@ -5,7 +5,6 @@ Hey there! I'm someone who genuinely loves coding feels more like a hobby than a
 
 ##  💻  Currently working on
 - A React-based website for the Puistolan Urheilijat men's football team
-- A React-based social media platform for the animals called PetPals
 - Improving my programming skills, focusing on Java, JavaScript, Python and Kotlin
 
 
@@ -65,7 +64,7 @@ The purpose of this project is to offer users an easy-to-use application for sto
 
 ## 🏬 [StoreSimulator](https://github.com/eetuam1/StoreSimulator)
 
-[StoreSimulator](https://github.com/eetuam1/StoreSimulator) is a simulation tool designed to model customer flows and manage queues across various service points, such as customer service counters and checkout lines. The goal of this project is to realistically simulate customer behavior, providing insights into optimizing service points and enhancing queue management. The simulator also features visualizations to help monitor customer experiences intuitively.
+Tt`s a simulation tool designed to model customer flows and manage queues across various service points, such as customer service counters and checkout lines. The goal of this project is to realistically simulate customer behavior, providing insights into optimizing service points and enhancing queue management. The simulator also features visualizations to help monitor customer experiences intuitively.
 
 ### 💡 Project Idea
 The purpose of this project is to create a realistic simulation environment where businesses can analyze and improve customer flow and service efficiency. By modeling customer behavior, StoreSimulator helps in decision-making for optimizing queue management and resource allocation.
@@ -91,6 +90,43 @@ The purpose of this project is to create a realistic simulation environment wher
 - **Maven**: Build automation and dependency management tool.
 - **JUnit**: Framework used for testing the application.
 
+## 🎓 [Student Information System](https://github.com/eetuam1/Student-Information-System)
+
+The **Student Information System** is a web application designed to facilitate student and teacher interactions, manage course enrollments, track attendance, and handle grade management. It provides a comprehensive platform for educational institutions to efficiently manage their academic activities.
+
+### 💡 Project Idea
+This project aims to create a centralized system where educational institutions can streamline course enrollment, attendance tracking, and grading. It enhances communication between students and teachers while ensuring a smooth academic experience.
+
+### 🚀 Features
+- 🏫 Manage student and teacher interactions
+- 📚 Course enrollment and scheduling
+- 📝 Attendance tracking
+- 🎓 Grade management
+- 🔒 Secure authentication and authorization
+- 📊 User-friendly UI with Vaadin
+
+## 🛠️ Technologies Used
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Vaadin](https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-FFAB00?style=for-the-badge&logo=mockito&logoColor=white)
+
+- **Java 21**: Programming language for backend logic.
+- **Spring Boot 3.2.8**: Framework for building the backend application.
+- **Vaadin 24.4.10**: UI framework for building web interfaces.
+- **MySQL**: Primary database for storing production data.
+- **H2**: In-memory database for testing.
+- **Maven**: Dependency management and build automation.
+- **Docker**: Containerization for easy deployment.
+- **Jenkins**: Continuous integration and deployment.
+- **JUnit & Mockito**: Testing frameworks to ensure code quality.
+- **Lombok**: Reduces boilerplate code.
+- **SLF4J & Logback**: Logging framework for better monitoring.
 
 ## 📚  Languages and Tools
 #### JavaScript, Java, Python, Kotlin, React, Docker, Git, HTML5, CSS3, Jenkins, StarUml, MySQL, HeidiSQL, JavaFX, MariaDB, Maven, JUnit, SonarCloud
