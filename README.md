@@ -1,7 +1,12 @@
 # ✌️ Hi, I'm Eetu!
 
 ## 🙇 About me 
-Hey there! I'm someone who genuinely loves coding feels more like a hobby than anything else. I’m always excited to dive into new languages, tools, or projects, and there's nothing better than figuring out a challenging problem or learning something unexpected along the way. Right now, I’m really into Java, JavaScript and Kotlin, but I’m always open to exploring wherever curiosity takes me.
+Hey there! I’m a software development enthusiast who loves tackling challenges through code and continuously expanding my skills. Coding feels more like a passion than just a skill—there’s nothing better than solving a challenging problem or learning something unexpected along the way.
+
+I’m especially into data and cloud technologies, as well as full-stack development. Whether it’s optimizing databases, building scalable cloud solutions, or developing intuitive web applications, I love finding efficient and creative solutions. Right now, I’m working a lot with Java, JavaScript, and Kotlin, but I’m always excited to explore new languages, tools, and projects.
+
+Let’s connect and create something great together! 🚀
+
 
 ##  💻  Currently working on
 - A React-based website for the Puistolan Urheilijat men's football team
